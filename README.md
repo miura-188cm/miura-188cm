@@ -1,13 +1,16 @@
 
 <img width="200" height="200" src="./img/fodie.PNG" /><img width="200" height="200" src="./img/icon.PNG" /><img width="200" height="200" src="./img/icon_suit.PNG" /><img width="200" height="200" src="./img/turtleneck.PNG" />
 
+[useMiuraLabs](https://github.com/useMiuraLabs)
+最近こっちで repo 作ってることが多いです
+
 ## Tech Stack
 
-<img src="https://skillicons.dev/icons?i=java,javascript,typescript" /><br>
+<img src="https://skillicons.dev/icons?i=javascript,typescript" /><br>
 
-<img src="https://skillicons.dev/icons?i=spring,nextjs,react" /> <img width="50" height="50" src="https://reactrouter.com/_brand/React%20Router%20Brand%20Assets/React%20Router%20Logo/Light.svg" /> <img src="https://skillicons.dev/icons?i=apollo,prisma,tailwind" />
+<img src="https://skillicons.dev/icons?i=nextjs,react" />
 
-<img src="https://skillicons.dev/icons?i=supabase,vercel,docker,postgresql,graphql,githubactions" /><br>
+<img src="https://skillicons.dev/icons?i=docker,postgresql" /><br>
 
 <img src="https://skillicons.dev/icons?i=nodejs,bun" />
 
